@@ -1,0 +1,332 @@
+<?xml version="1.0" encoding="UTF-8"?><unload unload_date="2024-10-29 17:49:04">
+<sys_remote_update_set action="INSERT_OR_UPDATE">
+<application display_value="Global">global</application>
+<application_name>Global</application_name>
+<application_scope>global</application_scope>
+<application_version/>
+<collisions/>
+<commit_date/>
+<deleted/>
+<description/>
+<inserted/>
+<name>Global Space Helper</name>
+<origin_sys_id/>
+<parent display_value=""/>
+<release_date/>
+<remote_base_update_set display_value=""/>
+<remote_parent_id/>
+<remote_sys_id>729f124083e9d210981e5860ceaad3b1</remote_sys_id>
+<state>loaded</state>
+<summary/>
+<sys_class_name>sys_remote_update_set</sys_class_name>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2024-10-29 17:49:04</sys_created_on>
+<sys_id>2961eee183e11210981e5860ceaad357</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2024-10-29 17:49:04</sys_updated_on>
+<update_set display_value=""/>
+<update_source display_value=""/>
+<updated/>
+</sys_remote_update_set>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Space Table">1536806f83951210981e5860ceaad3e8</application>
+<category>customer</category>
+<comments/>
+<name>sys_scope_privilege_fad81d9d83211210981e5860ceaad3cd</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_scope_privilege"><sys_scope_privilege action="INSERT_OR_UPDATE"><operation>execute</operation><source_scope display_value="Space Table">1536806f83951210981e5860ceaad3e8</source_scope><status>allowed</status><sys_class_name>sys_scope_privilege</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2024-10-28 17:53:39</sys_created_on><sys_id>fad81d9d83211210981e5860ceaad3cd</sys_id><sys_mod_count>0</sys_mod_count><sys_name>GlideRecord.update</sys_name><sys_package display_value="Space Table" source="x_560335_space_tab">1536806f83951210981e5860ceaad3e8</sys_package><sys_policy/><sys_scope display_value="Space Table">1536806f83951210981e5860ceaad3e8</sys_scope><sys_update_name>sys_scope_privilege_fad81d9d83211210981e5860ceaad3cd</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-10-28 17:53:39</sys_updated_on><target_name>GlideRecord.update</target_name><target_scope display_value="Global">global</target_scope><target_type>scriptable</target_type></sys_scope_privilege></record_update>]]></payload>
+<payload_hash>1906871471</payload_hash>
+<remote_update_set display_value="Global Space Helper">2961eee183e11210981e5860ceaad357</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2024-10-29 17:49:04</sys_created_on>
+<sys_id>2561eee183e11210981e5860ceaad358</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>192d44315600000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2024-10-29 17:49:04</sys_updated_on>
+<table/>
+<target_name>GlideRecord.update</target_name>
+<type>Cross scope privilege</type>
+<update_domain>global</update_domain>
+<update_guid>3ed81d9d5e211210cad57aafc9613ed0</update_guid>
+<update_guid_history>3ed81d9d5e211210cad57aafc9613ed0:1906871471</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="CMDB Workspace">c8ab76825371201032b7ddeeff7b1280</application>
+<category>customer</category>
+<comments/>
+<name>sn_cmdb_ws_ms_class_metadata_ce9f62555bd50110693e7da52d81c7bd</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sn_cmdb_ws_ms_class_metadata"><sn_cmdb_ws_ms_class_metadata action="INSERT_OR_UPDATE"><ci_count_percent>100</ci_count_percent><sys_class_name>sn_cmdb_ws_ms_class_metadata</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2022-01-26 09:01:20</sys_created_on><sys_domain>global</sys_domain><sys_id>ce9f62555bd50110693e7da52d81c7bd</sys_id><sys_mod_count>28</sys_mod_count><sys_name/><sys_package display_value="CMDB Workspace" source="sn_cmdb_ws">c8ab76825371201032b7ddeeff7b1280</sys_package><sys_policy/><sys_scope display_value="CMDB Workspace">c8ab76825371201032b7ddeeff7b1280</sys_scope><sys_update_name>sn_cmdb_ws_ms_class_metadata_ce9f62555bd50110693e7da52d81c7bd</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-10-26 06:30:01</sys_updated_on><table>cmdb_ci_hardware</table></sn_cmdb_ws_ms_class_metadata></record_update>]]></payload>
+<payload_hash>-1966656346</payload_hash>
+<remote_update_set display_value="Global Space Helper">2961eee183e11210981e5860ceaad357</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2024-10-29 17:49:04</sys_created_on>
+<sys_id>2d61eee183e11210981e5860ceaad357</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>192c7847b720000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2024-10-29 17:49:04</sys_updated_on>
+<table>cmdb_ci_hardware</table>
+<target_name/>
+<type>CMDB Workspace Multisource Class Metadat</type>
+<update_domain>global</update_domain>
+<update_guid>91392cec6b6d121059eecbfb459364e9</update_guid>
+<update_guid_history>91392cec6b6d121059eecbfb459364e9:-1966656346,19392cec8b6d1210afaee67f2e1a58e6:-2121401785,d39f17001d211610b0c316818f4b57c0:-1966656346,539f17008021161007484ba38cb2e9be:-2121401785,e90612771e959210ee47cc2a047141e2:-1966656346,a1061277e395921081e6e69d36133fe0:-2121401785,3b6c85a7851d1210b547e5ef7a823a7f:-1966656346,736c85a7aa1d121002212c0244b0837d:-2121401785,5911b6137711121021a621132c4c8c46:-1966656346,dd1176132d1112107a81c83cf41bc094:-2121401785,05f1bc328b111210da5ee5dcb7340de6:-1966656346,cdf1bc32a4111210d3af669591cec8e3:-2121401785,cd16601224dd121060109539b942dbfd:-1966656346,c516601299dd1210ad7ee9c93129befb:-2121401785,1ca6a902bd111210d2dd626906926d7c:-1966656346,58a6a902281112106823596cdc06597a:-2121401785,2f49091134195610133a1507de06e0e4:-1966656346,a34909111b195610095cf894f2d251e2:-2121401785,bdbff7786b9dd21022b3e7cfda266474:-1966656346,75bff7784d9dd2100cec9c5bc1960e72:-2121401785,4c26fea039159210a68c060df6934e8d:-1966656346,0426fea0bc15921065ba802ae2f2118b:-2121401785,168ca95c9899121083aef30e63fc82ad:-1966656346,da8ca95c06991210063fbdd666a017aa:-2121401785,4722e7009d1112109b449a9888f97c4f:-1966656346,4f22e700c4111210404a91ab95b0204b:-2121401785,c505c93305011210d2abda354995afed:-1966656346,0905c933ad011210b96f91ace4f79deb:-2121401785,4105c9332f011210957a7228d09608ea:-1966656346</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>DELETE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>sys_script_include_94ff1a4083e9d210981e5860ceaad308</name>
+<payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update table="sys_script_include"&gt;&lt;sys_script_include action="DELETE"&gt;&lt;access&gt;public&lt;/access&gt;&lt;active&gt;true&lt;/active&gt;&lt;api_name&gt;global.SysPrefUtil&lt;/api_name&gt;&lt;caller_access/&gt;&lt;client_callable&gt;false&lt;/client_callable&gt;&lt;description/&gt;&lt;mobile_callable&gt;false&lt;/mobile_callable&gt;&lt;name&gt;SysPrefUtil&lt;/name&gt;&lt;script&gt;&lt;![CDATA[var SysPrefUtil = Class.create();
+SysPrefUtil.prototype = {
+ 
+  getUserBoardPreferences: function(userId) {
+
+        var encQ = "user= " + userId + "^name=boards";
+
+        var prefGr = new GlideRecord('sys_user_preference');
+        prefGr.addEncodedQuery(encQ);
+        prefGr.query();
+
+        if (prefGr.next()) {
+
+            var existing = prefGr.getValue('value');
+
+            var parsed = JSON.parse(existing);
+            var fullBoard = this.validateBoards(parsed.full);
+            var splitBoards = this.validateBoards(parsed.split);
+            var quadBoards = this.validateBoards(parsed.quad);
+
+        } else {
+
+            var boards = {};
+
+            var boardGr = new GlideRecord('x_560335_space_tab_board');
+            boardGr.addEncodedQuery('active=true');
+            boardGr.query();
+
+            if (boardGr.next()) {
+
+                var latestId = boardGr.getUniqueValue();
+                boards.full = [latestId];
+                boards.split = [latestId, latestId];
+                boards.quad = [latestId, latestId, latestId, latestId];
+            }
+
+            var newPrefGr = new GlideRecord('sys_user_preference');
+			newPrefGr.initialize();
+			newPrefGr.user = userId;
+			newPrefGr.value = JSON.stringify(boards);
+			newPrefGr.insert();
+
+        }
+
+    },
+
+    validateBoards: function(boardIds) {
+
+        var validatedIds = [];
+
+        for (var i = 0; i &lt; boardIds.length; i++) {
+
+            var boardGr = new GlideRecord('x_560335_space_tab_board');
+            boardGr.addEncodedQuery('active=true^sys_id=' + boardIds[i]);
+            boardGr.query();
+
+            if (boardGr.next()) {
+                validatedIds.push(boardIds[i]);
+            } else {
+                validatedIds.push(null);
+            }
+
+
+        }
+
+        return validatedIds;
+
+    },
+
+
+    type: 'SysPrefUtil'
+};]]&gt;&lt;/script&gt;&lt;sys_class_name&gt;sys_script_include&lt;/sys_class_name&gt;&lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2024-10-25 01:51:49&lt;/sys_created_on&gt;&lt;sys_id&gt;94ff1a4083e9d210981e5860ceaad308&lt;/sys_id&gt;&lt;sys_mod_count&gt;0&lt;/sys_mod_count&gt;&lt;sys_name&gt;SysPrefUtil&lt;/sys_name&gt;&lt;sys_package display_value="Global" source="global"&gt;global&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_scope display_value="Global"&gt;global&lt;/sys_scope&gt;&lt;sys_update_name&gt;sys_script_include_94ff1a4083e9d210981e5860ceaad308&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2024-10-25 01:51:49&lt;/sys_updated_on&gt;&lt;/sys_script_include&gt;&lt;/record_update&gt;</payload>
+<payload_hash>-1698949738</payload_hash>
+<remote_update_set display_value="Global Space Helper">2961eee183e11210981e5860ceaad357</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2024-10-29 17:49:04</sys_created_on>
+<sys_id>a961eee183e11210981e5860ceaad358</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>192c15f85c00000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2024-10-29 17:49:04</sys_updated_on>
+<table/>
+<target_name>SysPrefUtil</target_name>
+<type>Script Include</type>
+<update_domain>global</update_domain>
+<update_guid>f1ff1a40c9e9d2100b65546ec7c66a96</update_guid>
+<update_guid_history>f1ff1a40c9e9d2100b65546ec7c66a96:-1698949738,d8ff1a402ce9d21068de92a9ba314109:-1610534262</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>sys_script_include_50dfde8c83a9d210981e5860ceaad32c</name>
+<payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update table="sys_script_include"&gt;&lt;sys_script_include action="INSERT_OR_UPDATE"&gt;&lt;access&gt;public&lt;/access&gt;&lt;active&gt;true&lt;/active&gt;&lt;api_name&gt;global.SysPrefUtil&lt;/api_name&gt;&lt;caller_access/&gt;&lt;client_callable&gt;false&lt;/client_callable&gt;&lt;description/&gt;&lt;mobile_callable&gt;false&lt;/mobile_callable&gt;&lt;name&gt;SysPrefUtil&lt;/name&gt;&lt;script&gt;&lt;![CDATA[var SysPrefUtil = Class.create();
+SysPrefUtil.prototype = {
+
+    getUserBoardPreferences: function(userId) {
+
+        var boards = {};
+
+        var encQ = "name=boards^user=" + userId;
+
+        var prefGr = new GlideRecord('sys_user_preference');
+        prefGr.addEncodedQuery(encQ);
+        prefGr.query();
+
+        // check user preferences for existing boards
+        if (prefGr.next()) {
+
+            var existing = prefGr.getValue('value');
+
+            //make sure existing boards are still valid
+            var parsed = JSON.parse(existing);
+            var fullBoard = this.validateBoards(parsed.full);
+            var splitBoards = this.validateBoards(parsed.split);
+            var quadBoards = this.validateBoards(parsed.quad);
+
+            boards.full = fullBoard;
+            boards.split = splitBoards;
+            boards.quad = quadBoards;
+            boards.view = parsed.view;
+            boards.ids = this.getBoardIds(fullBoard, splitBoards, quadBoards);
+
+        } else {
+
+            // by default, set all boards to latest board
+            var boardGr = new GlideRecord('x_560335_space_tab_board');
+            boardGr.addEncodedQuery('active=true');
+            boardGr.query();
+
+            if (boardGr.next()) {
+
+                var latestId = boardGr.getUniqueValue();
+                boards.full = [latestId];
+                boards.split = [latestId, latestId];
+                boards.quad = [latestId, latestId, latestId, latestId];
+                boards.view = "full";
+                boards.ids = [latestId];
+            }
+
+            var newPrefGr = new GlideRecord('sys_user_preference');
+            newPrefGr.initialize();
+            newPrefGr.name = "boards";
+            newPrefGr.user = userId;
+            newPrefGr.value = JSON.stringify(boards);
+            newPrefGr.insert();
+
+        }
+
+        return boards;
+
+    },
+
+    validateBoards: function(boardIds) {
+
+        var validatedIds = [];
+
+        for (var i = 0; i &lt; boardIds.length; i++) {
+
+            var boardGr = new GlideRecord('x_560335_space_tab_board');
+            boardGr.addEncodedQuery('active=true^sys_id=' + boardIds[i]);
+            boardGr.query();
+
+            if (boardGr.next()) {
+                validatedIds.push(boardIds[i]);
+            } else {
+                validatedIds.push(null);
+            }
+
+
+        }
+
+        return validatedIds;
+
+    },
+
+    updateUserPreferences: function(newPref, userId) {
+
+        var encQ = "name=boards^user=" + userId;
+
+        var prefGr = new GlideRecord('sys_user_preference');
+        prefGr.addEncodedQuery(encQ);
+        prefGr.query();
+
+        if (prefGr.next()) {
+            prefGr.value = newPref;
+            prefGr.update();
+        }
+
+    },
+
+    getBoardIds: function(fullBoard, splitBoards, quadBoards) {
+
+		var arrayUtil = new ArrayUtil();
+		var ids = new Array();
+
+        if (fullBoard[0] !== null) {
+            ids.push(fullBoard[0]);
+        }
+
+        splitBoards.forEach(function(board) {
+
+            if (board !== null &amp;&amp; ids.indexOf(board) === -1) {
+                ids.push(board);
+            }
+        });
+
+        quadBoards.forEach(function(board) {
+
+            if (board !== null &amp;&amp; ids.indexOf(board) === -1) {
+                ids.push(board);
+            }
+        });
+
+        return ids;
+    },
+
+    type: 'SysPrefUtil'
+};]]&gt;&lt;/script&gt;&lt;sys_class_name&gt;sys_script_include&lt;/sys_class_name&gt;&lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2024-10-25 01:51:41&lt;/sys_created_on&gt;&lt;sys_id&gt;50dfde8c83a9d210981e5860ceaad32c&lt;/sys_id&gt;&lt;sys_mod_count&gt;28&lt;/sys_mod_count&gt;&lt;sys_name&gt;SysPrefUtil&lt;/sys_name&gt;&lt;sys_package display_value="Global" source="global"&gt;global&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_scope display_value="Global"&gt;global&lt;/sys_scope&gt;&lt;sys_update_name&gt;sys_script_include_50dfde8c83a9d210981e5860ceaad32c&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2024-10-29 15:32:53&lt;/sys_updated_on&gt;&lt;/sys_script_include&gt;&lt;sys_es_latest_script action="INSERT_OR_UPDATE"&gt;&lt;id&gt;50dfde8c83a9d210981e5860ceaad32c&lt;/id&gt;&lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2024-10-25 01:51:40&lt;/sys_created_on&gt;&lt;sys_id&gt;d6efdecc83a9d210981e5860ceaad394&lt;/sys_id&gt;&lt;sys_mod_count&gt;0&lt;/sys_mod_count&gt;&lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2024-10-25 01:51:40&lt;/sys_updated_on&gt;&lt;table&gt;sys_script_include&lt;/table&gt;&lt;use_es_latest&gt;true&lt;/use_es_latest&gt;&lt;/sys_es_latest_script&gt;&lt;/record_update&gt;</payload>
+<payload_hash>1248048630</payload_hash>
+<remote_update_set display_value="Global Space Helper">2961eee183e11210981e5860ceaad357</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2024-10-29 17:49:04</sys_created_on>
+<sys_id>e561eee183e11210981e5860ceaad358</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>192d8e8925a0000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2024-10-29 17:49:04</sys_updated_on>
+<table/>
+<target_name>SysPrefUtil</target_name>
+<type>Script Include</type>
+<update_domain>global</update_domain>
+<update_guid>b6324ae9db21121023a7651c4a33ad61</update_guid>
+<update_guid_history>b6324ae9db21121023a7651c4a33ad61:1248048630,9512862d27211210a568e88e88666519:2047987980,d5c1462d80211210139200686e720897:673059607,c1914aa9ef211210e4862d9531897abc:-312620244,8e21caa95621121055b7da839ba4c3ec:442786836,27e006e9f5211210a9a1590d65c66067:252825985,21808a25dd211210cf126f7241f89130:-1473956836,dd604aa98821121074a43741992a0706:-1695475700,e130caa544211210e004977cfcf4ef3f:-1110418916,0e7f3d65492112104d8f4bbebc0190ec:1813033244,0a67991dea21121010a1d185db5b623e:143572505,bf37511dd6211210d6d0de4c9958f9e1:595186128,d195995971211210293553ca152a8b9f:1098551354,2643159592211210efcd957cafdc1b2a:143572505,6aa2aba4002d52109b913290479c2ae6:-1780415942,c171a724972d52103748fa4587f94785:-1046807771,58fe1f20872d521023efa60f8b4daff3:-1427149176,2a0e5b20e92d5210a637876df758bc35:1989864678,a3fd1fecede952106fd5654e4d3dd87a:-909182155,f3ed57202b2d5210524a471588eb737d:-839609914,1add97201a2d52104009ce6a28aaf0a4:-569697576,36bd13ec25e95210b0ed8590544601e9:-386167430,58ad9320792d5210f28d310f0a07b608:-1248476159,e17d9fec13e95210351516ed29ef2e3c:1875667809,901d932c1fe95210becd0f3a8bd16e48:-1248476159,42cc5fac50e9521073dc009638ba1be7:-1870247096,34c02a8054e9d210208878d21213e5e3:1863157540,63ffd640cee9d2108af22be4a1030fce:-1466727499,56efd640a3e9d2102d20d0545fba471e:2040084324</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+</unload>
